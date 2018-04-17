@@ -1,0 +1,17 @@
+/home/tom/git/OciusFormTest/OciusFormTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/home/tom/git/OciusFormTest/OciusFormTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/home/tom/git/OciusFormTest/OciusFormTests/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/home/tom/git/OciusFormTest/OciusFormTests/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/home/tom/git/OciusFormTest/OciusFormTests/bin/Debug/netcoreapp2.0/OciusFormTests.deps.json
+/home/tom/git/OciusFormTest/OciusFormTests/bin/Debug/netcoreapp2.0/OciusFormTests.runtimeconfig.json
+/home/tom/git/OciusFormTest/OciusFormTests/bin/Debug/netcoreapp2.0/OciusFormTests.runtimeconfig.dev.json
+/home/tom/git/OciusFormTest/OciusFormTests/bin/Debug/netcoreapp2.0/OciusFormTests.dll
+/home/tom/git/OciusFormTest/OciusFormTests/bin/Debug/netcoreapp2.0/OciusFormTests.pdb
+/home/tom/git/OciusFormTest/OciusFormTests/bin/Debug/netcoreapp2.0/OciusForm.dll
+/home/tom/git/OciusFormTest/OciusFormTests/bin/Debug/netcoreapp2.0/OciusForm.pdb
+/home/tom/git/OciusFormTest/OciusFormTests/obj/Debug/netcoreapp2.0/OciusFormTests.csproj.CoreCompileInputs.cache
+/home/tom/git/OciusFormTest/OciusFormTests/obj/Debug/netcoreapp2.0/OciusFormTests.AssemblyInfoInputs.cache
+/home/tom/git/OciusFormTest/OciusFormTests/obj/Debug/netcoreapp2.0/OciusFormTests.AssemblyInfo.cs
+/home/tom/git/OciusFormTest/OciusFormTests/obj/Debug/netcoreapp2.0/OciusFormTests.csproj.CopyComplete
+/home/tom/git/OciusFormTest/OciusFormTests/obj/Debug/netcoreapp2.0/OciusFormTests.dll
+/home/tom/git/OciusFormTest/OciusFormTests/obj/Debug/netcoreapp2.0/OciusFormTests.pdb

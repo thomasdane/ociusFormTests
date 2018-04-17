@@ -1,0 +1,8 @@
+/home/tom/git/OciusFormTest/OciusForm/bin/Debug/netstandard2.0/OciusForm.deps.json
+/home/tom/git/OciusFormTest/OciusForm/bin/Debug/netstandard2.0/OciusForm.dll
+/home/tom/git/OciusFormTest/OciusForm/bin/Debug/netstandard2.0/OciusForm.pdb
+/home/tom/git/OciusFormTest/OciusForm/obj/Debug/netstandard2.0/OciusForm.csproj.CoreCompileInputs.cache
+/home/tom/git/OciusFormTest/OciusForm/obj/Debug/netstandard2.0/OciusForm.AssemblyInfoInputs.cache
+/home/tom/git/OciusFormTest/OciusForm/obj/Debug/netstandard2.0/OciusForm.AssemblyInfo.cs
+/home/tom/git/OciusFormTest/OciusForm/obj/Debug/netstandard2.0/OciusForm.dll
+/home/tom/git/OciusFormTest/OciusForm/obj/Debug/netstandard2.0/OciusForm.pdb
