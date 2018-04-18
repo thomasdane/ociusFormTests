@@ -657,6 +657,24 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Selenium.Firefox.WebDriver/0.17.0": {
+        "type": "package",
+        "build": {
+          "build/Selenium.Firefox.WebDriver.targets": {}
+        }
+      },
+      "Selenium.Support/3.11.2": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "3.11.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/WebDriver.Support.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/WebDriver.Support.dll": {}
+        }
+      },
       "Selenium.WebDriver/3.11.2": {
         "type": "package",
         "dependencies": {
@@ -2586,6 +2604,34 @@
         "lib/netstandard1.0/_._",
         "runtime.native.system.4.3.0.nupkg.sha512",
         "runtime.native.system.nuspec"
+      ]
+    },
+    "Selenium.Firefox.WebDriver/0.17.0": {
+      "sha512": "AfIyxrCYa8YIfXaTjuQSb++UPuKVpOm49jGo/wUsORVtkMuCNc32CvGJca9cN39hpI4+Ih7nKHdcd3TuPg7Yaw==",
+      "type": "package",
+      "path": "selenium.firefox.webdriver/0.17.0",
+      "files": [
+        "build/Selenium.Firefox.WebDriver.targets",
+        "driver/geckodriver.exe",
+        "selenium.firefox.webdriver.0.17.0.nupkg.sha512",
+        "selenium.firefox.webdriver.nuspec"
+      ]
+    },
+    "Selenium.Support/3.11.2": {
+      "sha512": "9Hv/NFkG5g0vo+R68vCP+MMCUgc8O4erNQXJNUDk5xjOAG0xJYNHtPHxV6UG7wRvFwsv6JCTZUEzACU0kM6+pw==",
+      "type": "package",
+      "path": "selenium.support/3.11.2",
+      "files": [
+        "lib/net35/WebDriver.Support.dll",
+        "lib/net35/WebDriver.Support.xml",
+        "lib/net40/WebDriver.Support.dll",
+        "lib/net40/WebDriver.Support.xml",
+        "lib/net45/WebDriver.Support.dll",
+        "lib/net45/WebDriver.Support.xml",
+        "lib/netstandard2.0/WebDriver.Support.dll",
+        "lib/netstandard2.0/WebDriver.Support.xml",
+        "selenium.support.3.11.2.nupkg.sha512",
+        "selenium.support.nuspec"
       ]
     },
     "Selenium.WebDriver/3.11.2": {
@@ -5577,6 +5623,8 @@
       "Microsoft.NETCore.App >= 2.0.0",
       "NUnit3TestAdapter >= 3.10.0",
       "OciusForm >= 1.0.0",
+      "Selenium.Firefox.WebDriver >= 0.17.0",
+      "Selenium.Support >= 3.11.2",
       "Selenium.WebDriver >= 3.11.2",
       "nunit >= 3.10.1"
     ]
@@ -5637,6 +5685,14 @@
           "NUnit3TestAdapter": {
             "target": "Package",
             "version": "[3.10.0, )"
+          },
+          "Selenium.Firefox.WebDriver": {
+            "target": "Package",
+            "version": "[0.17.0, )"
+          },
+          "Selenium.Support": {
+            "target": "Package",
+            "version": "[3.11.2, )"
           },
           "Selenium.WebDriver": {
             "target": "Package",
